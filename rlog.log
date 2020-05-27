@@ -1,0 +1,16 @@
+2020-05-25 22:35:27,627 - logger - INFO - tes
+2020-05-25 22:35:29,633 - logger - WARNING - tes
+2020-05-25 22:35:31,637 - logger - ERROR - tes
+2020-05-25 22:35:33,641 - logger - CRITICAL - tes
+2020-05-25 22:35:33,642 - logger - DEBUG - tes
+2020-05-25 22:35:35,646 - logger - INFO - tes
+2020-05-25 22:35:37,649 - logger - WARNING - tes
+2020-05-25 22:35:39,650 - logger - ERROR - tes
+2020-05-25 22:35:41,655 - logger - CRITICAL - tes
+2020-05-25 22:35:41,655 - logger - DEBUG - tes
+2020-05-25 22:35:43,660 - logger - INFO - tes
+2020-05-25 22:35:45,661 - logger - WARNING - tes
+2020-05-25 22:35:47,662 - logger - ERROR - tes
+2020-05-25 22:35:49,665 - logger - CRITICAL - tes
+2020-05-25 22:35:49,666 - logger - DEBUG - tes
+2020-05-25 22:35:51,670 - logger - INFO - tes
